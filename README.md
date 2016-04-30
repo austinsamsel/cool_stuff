@@ -1,6 +1,6 @@
 # COOL STUFF
 
-Rolling list of things that make me happy.
+Rolling list of things I find on the internet that make me happy.
 
 ---
 
@@ -118,7 +118,6 @@ http://pingendo.com
 **literary neural net autocomplete**
 https://twitter.com/robinsloan/status/725068953383362560
 
----
 **sci fi**
 http://thecreatorsproject.vice.com/blog/miyazaki-inspired-short-follows-an-ais-coming-of-age
 http://thecreatorsproject.vice.com/blog/epsilon-sci-fi-concept-story
