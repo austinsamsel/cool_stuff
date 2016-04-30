@@ -1,30 +1,41 @@
-# COOL STUFF
+# COOL STUFF 🏄🏾
 
 Rolling list of things I find on the internet that make me happy.
 
 ---
 
-**videogame** http://fastfives.mailchimp.com/
+**videogame** 🖐
+http://fastfives.mailchimp.com/
 
-**future web** https://webrtc.org/
+**future web** 
+https://webrtc.org/
 
-**psychology** http://qz.com/635719/reading-is-basically-a-form-of-brainwashing/
+**psychology** 
+http://qz.com/635719/reading-is-basically-a-form-of-brainwashing/
 
-**design homogenity** https://medium.com/swlh/the-unbearable-homogeneity-of-design-fe1a44d48f3d#.hpyrg8p9y
+**design homogenity** 
+https://medium.com/swlh/the-unbearable-homogeneity-of-design-fe1a44d48f3d#.hpyrg8p9y
 
-**web typography** http://www.studiothick.com/essays/web-typography-is-broken/
+**web typography** 
+http://www.studiothick.com/essays/web-typography-is-broken/
 
-**mantra** https://github.com/kadirahq/mantra
+**mantra** 
+https://github.com/kadirahq/mantra
 
-**craft manager** http://www.invisionapp.com/craft
+**craft manager** 
+http://www.invisionapp.com/craft
 
-**ethical design manifesto** https://ind.ie/ethical-design/downloads/ethical-design.pdf
+**ethical design manifesto** 
+https://ind.ie/ethical-design/downloads/ethical-design.pdf
 
-**transrealism** http://www.rudyrucker.com/pdf/transrealistmanifesto.pdf
+**transrealism** 
+http://www.rudyrucker.com/pdf/transrealistmanifesto.pdf
 
-**bye jquery** http://youmightnotneedjquery.com/
+**bye jquery** 
+http://youmightnotneedjquery.com/
 
-**flat file CMS** https://getgrav.org/
+**flat file CMS** 
+https://getgrav.org/
 
 **nice portfolio**
 http://www.ryandavi.com
@@ -35,7 +46,8 @@ https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-develop
 **veil of ignorance**
 http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/
 
-**ebooks** http://techcrunch.com/2016/03/26/will-nobody-think-of-the-trees/?ncid=rss
+**ebooks** 
+http://techcrunch.com/2016/03/26/will-nobody-think-of-the-trees/?ncid=rss
 
 **simple writer**
 https://xkcd.com/simplewriter/
